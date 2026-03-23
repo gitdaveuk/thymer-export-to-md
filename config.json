@@ -1,0 +1,22 @@
+{
+  "ver": 1,
+  "name": "Markdown Exporter",
+  "icon": "download",
+  "description": "Export all collections to Markdown files, manually or on a schedule.",
+  "home": false,
+  "show_sidebar_items": false,
+  "show_cmdpal_items": false,
+  "managed": {
+    "fields": false,
+    "views": false,
+    "sidebar": false
+  },
+  "fields": [],
+  "views": [],
+  "page_field_ids": [],
+  "sidebar_record_sort_field_id": "",
+  "sidebar_record_sort_dir": "asc",
+  "custom": {
+    "export_interval_minutes": 60
+  }
+}
